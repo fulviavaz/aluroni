@@ -1,46 +1,31 @@
-# Getting Started with Create React App
+**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project created with Create React App
 
-## Available Scripts
+![enter image description here](https://uploads-ssl.webflow.com/64459907e83daf0cc446fdf5/64dbdcaa0b0341dec36e51d1_Imagem%20do%20WhatsApp%20de%202023-08-15%20%C3%A0%28s%29%2017.13.55-p-500.jpg)
+**
 
-In the project directory, you can run:
+## This is a website for a fictional restaurant.
 
-### `npm start`
+***Techs: React.JS - SCSS (CSS Modules) - React Hooks - Normallyze CSS - ClassNames***
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Project for learning purposes, in it I:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+I created a project from scratch with Create React
+app
 
-### `npm test`
+I learned how to use normalize.css to reset default browser styles
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I configured absolute imports so that I no longer need to import files with several levels ('../../../')
 
-### `npm run build`
+I learned good practices in CSS like creating variables, creating files for these variables and for media-query breakpoints
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Use the Classnames package to be able to use CSS Modules without having to concatenate a bunch of CSS styles and deal with conditional styles
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I learned how to use SVGR, a package that comes with Create React App to import svgs as React components
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I understood how React understands static imports both via .js files and in style files like .scss or .css.
 
-### `npm run eject`
+I learned how to import static files as variables via js or using the public folder for dynamic imports of static files
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
