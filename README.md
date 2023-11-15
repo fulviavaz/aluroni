@@ -7,7 +7,7 @@
 
 ## This is a website for a fictional restaurant.
 
-***Techs: React.JS - SCSS (CSS Modules) - React Hooks - Normallyze CSS - ClassNames***
+***Techs: React.JS - SCSS (CSS Modules) - React Hooks - Normallyze CSS - ClassNames - React-Router-DOM***
 
 Project for learning purposes, in it I:
 
